@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# App Overview: Make ERP Data Friendly
+# App Overview
+
+## Make ERP Data Friendly
 
 Maxa’s free ERP Sales Data Assessment Native App is an introduction to Maxa’s automated ERP data analytics solutions. It
 serves as the first step in a company's journey to unlocking the full potential of its ERP data. Maxa’s free app allows
@@ -19,6 +21,8 @@ Key features of Maxa’s free Sales Data Assessment Native App include:
   specific needs or teams’ requests
 - Simple ERP Data Mapping: identify dimensions, objects, metrics, and activities seamlessly
 
+## Support
+
 Please contact Maxa for further information about Maxa’s automated financial and ERP insights, capabilities and use
 cases no matter the industry, such as:
 
@@ -27,4 +31,4 @@ cases no matter the industry, such as:
 - Supplier performance and metrics
 - Work order profitability intelligence
 - Pricing intelligence
-- plus other ERP insight or IBP (Integrated Business Planning) use cases specific to your business
+- Other ERP insight or IBP (Integrated Business Planning) use cases specific to your business
