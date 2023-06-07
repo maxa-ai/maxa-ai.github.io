@@ -44,15 +44,16 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Maxa',
+        title: '',
         logo: {
           alt: 'Maxa Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
+          srcDark: 'img/logo_dark.png',
         },
         items: [],
       },
@@ -60,7 +61,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
+            title: 'About us',
             items: [
               {
                 label: 'Website',
