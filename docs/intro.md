@@ -1,7 +1,7 @@
 ---
 slug: /
 sidebar_position: 1
-sidebar_label: Maxa AI
+sidebar_label: Maxa
 ---
 
-# Welcome to Maxa AI Docs
+# Welcome to Maxa Docs

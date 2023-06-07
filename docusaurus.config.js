@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Maxa AI\'s Public Documentation',
+  title: 'Maxa\'s Public Documentation',
   tagline: 'The fastest way to make enterprise data friendly to business teams and code',
   favicon: 'img/favicon.ico',
 
@@ -49,9 +49,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Maxa AI',
+        title: 'Maxa',
         logo: {
-          alt: 'Maxa AI Logo',
+          alt: 'Maxa Logo',
           src: 'img/logo.svg',
         },
         items: [],
